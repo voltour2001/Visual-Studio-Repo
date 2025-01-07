@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  player.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\1spir\Desktop\projecto\projecto\player.cpp(28,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1spir\Desktop\projecto\projecto\player.cpp(29,48): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\1spir\Desktop\projecto\projecto\player.cpp(114,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\1spir\Desktop\projecto\projecto\player.cpp(115,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  projecto.vcxproj -> C:\Users\1spir\Desktop\projecto\bin\projecto.exe
